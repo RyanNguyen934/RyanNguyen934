@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Nguyen</h1>
-<h3 align="center">A still-learning CS Teacher from NJ</h3>
+<h3 align="center">A still-learning CS Student from NJ</h3>
 
 - 🔭 I’m currently working on [Coding Sandbox Website](https://github.com/blauHMHS/HMHSCodingSandbox)
 
